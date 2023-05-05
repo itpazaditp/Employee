@@ -1,0 +1,12 @@
+C:\Users\aa\Desktop\DotNet\EmployeeApplication\bin\Debug\EmployeeApplication.exe.config
+C:\Users\aa\Desktop\DotNet\EmployeeApplication\bin\Debug\EmployeeApplication.exe
+C:\Users\aa\Desktop\DotNet\EmployeeApplication\bin\Debug\EmployeeApplication.pdb
+C:\Users\aa\Desktop\DotNet\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.AssemblyReference.cache
+C:\Users\aa\Desktop\DotNet\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\aa\Desktop\DotNet\EmployeeApplication\obj\Debug\EmployeeApplication.Employee.resources
+C:\Users\aa\Desktop\DotNet\EmployeeApplication\obj\Debug\EmployeeApplication.Form1.resources
+C:\Users\aa\Desktop\DotNet\EmployeeApplication\obj\Debug\EmployeeApplication.Properties.Resources.resources
+C:\Users\aa\Desktop\DotNet\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.GenerateResource.cache
+C:\Users\aa\Desktop\DotNet\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.CoreCompileInputs.cache
+C:\Users\aa\Desktop\DotNet\EmployeeApplication\obj\Debug\EmployeeApplication.exe
+C:\Users\aa\Desktop\DotNet\EmployeeApplication\obj\Debug\EmployeeApplication.pdb
